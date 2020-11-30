@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/GRUNT.wav-cd5988f9abf77c6821c1e650143f9760.sample"
+
+[deps]
+
+source_file="res://Player/GRUNT.wav"
+dest_files=[ "res://.import/GRUNT.wav-cd5988f9abf77c6821c1e650143f9760.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
