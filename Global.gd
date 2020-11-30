@@ -4,7 +4,7 @@ onready var score = 0
 
 func _process(_delta):
 	if score >= 5:
-		get_tree().change_scene("Victory")
+		get_tree().change_scene("res://Victory.tscn")
 
 func _input(_event):
 	if Input.is_action_just_pressed("quit"):
